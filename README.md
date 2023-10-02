@@ -22,8 +22,6 @@ Here's a list of the projects available in this repository:
    - Description: In this project, which is the first of many to come, we try to predict the values of the selling price of used cars, considering various other features as well like "kilometers-driven", "Fuel Type " etc. 
    - [Click Here ]([project1/](https://github.com/atharv1707/MachineLearningProjects/blob/main/Car_price_prediction.ipynb))
 
-(Add more projects and descriptions as needed)
-
 ## Technologies Used
 
 - Python
