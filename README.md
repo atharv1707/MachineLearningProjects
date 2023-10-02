@@ -18,9 +18,9 @@ This repository is a centralized hub where I store and share the machine learnin
 
 Here's a list of the projects available in this repository:
 
-1. [Project 1: Title of Project 1](project1/)
-   - Description: A brief description of the first project.
-   - [Link to Project 1](project1/)
+1. [Car Price Prediction Model](https://github.com/atharv1707/MachineLearningProjects/blob/main/Car_price_prediction.ipynb)
+   - Description: In this project, which is the first of many to come, we try to predict the values of the selling price of used cars, considering various other features as well like "kilometers-driven", "Fuel Type " etc. 
+   - [Click Here ]([project1/](https://github.com/atharv1707/MachineLearningProjects/blob/main/Car_price_prediction.ipynb))
 
 (Add more projects and descriptions as needed)
 
